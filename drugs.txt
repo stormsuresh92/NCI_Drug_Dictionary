@@ -1,0 +1,3 @@
+https://webapis.cancer.gov/drugdictionary/v1/Drugs/expand/X?includeNameTypes=USBrandName&includeNameTypes=PreferredName&size=10000
+https://webapis.cancer.gov/drugdictionary/v1/Drugs/expand/Y?includeNameTypes=USBrandName&includeNameTypes=PreferredName&size=10000
+https://webapis.cancer.gov/drugdictionary/v1/Drugs/expand/Z?includeNameTypes=USBrandName&includeNameTypes=PreferredName&size=10000
